@@ -1,0 +1,63 @@
+body{
+background-color: rgba(223, 219, 219, 0.666);
+font-size: medium;
+}
+
+.caption-top{
+    background-color: rgb(89, 12, 189);
+   width: 40%;
+   margin: 0 auto;
+   font-size: x-large;
+   font-style: bold;
+   color: rgb(226, 217, 217);
+}
+h1{
+    display: inline;
+}
+
+.container-fluid{
+    color: rgb(236, 229, 229);
+background-color: rgba(17, 206, 90, 0.645);
+margin:0 0  20px;
+position: fixed;
+top: 0;
+}
+h1{
+    color: #000;
+    font-size: 100px;
+    
+}
+
+.pp{
+      color: #000;
+    font-size: 23px;
+    padding: 10px;
+    background-color: rgba(245, 245, 245, 0.994);
+}
+
+img{
+    width: 80px;
+}
+.hestory{
+background-color: rgba(153, 205, 50, 0.378);
+padding: 10px;
+color: #000;
+}
+
+.list-group li{
+    background-color: rgba(255, 255, 0, 0.618);
+}
+
+.use{
+    color: rgb(236, 229, 229);
+    background-color: rgba(0, 0, 0, 0.583);
+    padding: 10px;
+}
+.why{
+    color: #000;
+}
+
+.lap{
+    background-color: rgba(100, 148, 237, 0.652);
+}
+    
